@@ -2,6 +2,11 @@ body {
   background: #e4f4f5;
 }
 
+.App {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
 .App-logo {
   display: block;
   max-width: 100px;
