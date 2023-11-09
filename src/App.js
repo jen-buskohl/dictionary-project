@@ -14,7 +14,16 @@ export default function App() {
           <Dictionary defaultKeyword="snow" />
         </main>
         <small>
-          <footer className="App-footer">Coded by Jen Buskohl</footer>
+          <footer className="App-footer">
+            This project was coded by Jen Buskohl and is open-sourced on{" "}
+            <a href="https://github.com/jen-buskohl/dictionary-project">
+              GitHub
+            </a>{" "}
+            and hosted on{" "}
+            <a href="https://iridescent-raindrop-e26896.netlify.app/">
+              Netlify
+            </a>
+          </footer>
         </small>
       </div>
     </div>

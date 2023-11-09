@@ -1,4 +1,5 @@
 .Dictionary h1 {
+  color: #818c88;
   font-size: 23px;
   font-weight: bold;
   margin-bottom: 15px;
@@ -13,13 +14,14 @@
 
 .Dictionary-input {
   width: 100%;
-  padding: 6px 4px;
+  padding: 12px;
   border: 1px solid #ddd;
   border-radius: 6px;
   color: #333;
 }
 
 .Dictionary .hint {
+  color: #818c88;
   font-size: 11px;
   margin-top: 5px;
 }
